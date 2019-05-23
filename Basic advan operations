@@ -1,0 +1,12 @@
+class git2
+{
+  public static void main(String[] args)
+  {
+    int m=9,n=8,v,u;
+    v=m*n;
+    u=m-n;
+    System.out.println("The multiplcation is"+v);
+    System.out.println("The Division is "+u);
+    
+   }
+}   
